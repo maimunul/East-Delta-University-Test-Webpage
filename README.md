@@ -1,1 +1,1 @@
-# eastdeltauniversitytest.github.io
+# East Delta University Web Page
